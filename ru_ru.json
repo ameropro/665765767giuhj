@@ -1,0 +1,24 @@
+{
+  "itemGroup.konosuba_magic.magic": "Konosuba: Магия",
+
+  "item.konosuba_magic.explosion_staff": "Посох Взрыва",
+  "item.konosuba_magic.explosion_staff.tooltip": "Зажми ПКМ, чтобы читать заклинание, отпусти — EXPLOSION! После каста маг падает без сил.",
+  "item.konosuba_magic.steal_wand": "Жезл Кражи",
+  "item.konosuba_magic.steal_wand.tooltip": "ПКМ по мобу: 50% шанс украсть предмет из его экипировки.",
+  "item.konosuba_magic.lightning_staff": "Посох Молнии",
+  "item.konosuba_magic.lightning_staff.tooltip": "ПКМ: удар молнии в цель и цепная молния по врагам рядом.",
+  "item.konosuba_magic.freeze_staff": "Посох Заморозки",
+  "item.konosuba_magic.freeze_staff.tooltip": "ПКМ: замораживает врагов, воду превращает в лёд, лаву в обсидиан.",
+  "item.konosuba_magic.aqua_staff": "Посох Богини",
+  "item.konosuba_magic.aqua_staff.tooltip": "ПКМ: изгнание нежити и лечение союзников. Shift+ПКМ: создать воду.",
+  "item.konosuba_magic.wind_staff": "Посох Ветра",
+  "item.konosuba_magic.wind_staff.tooltip": "ПКМ: порыв ветра конусом. Shift+ПКМ: подбросить себя вверх.",
+  "item.konosuba_magic.drain_touch": "Рука Визу",
+  "item.konosuba_magic.drain_touch.tooltip": "ПКМ по существу: Drain Touch, высасывает здоровье и лечит тебя.",
+
+  "message.konosuba_magic.explosion.interrupted": "Заклинание прервано...",
+  "message.konosuba_magic.explosion.cast": "EXPLOSION!",
+  "message.konosuba_magic.steal.fail": "Кража не удалась!",
+  "message.konosuba_magic.steal.success": "Украдено: %s",
+  "message.konosuba_magic.steal.no_players": "Красть у игроков нельзя."
+}

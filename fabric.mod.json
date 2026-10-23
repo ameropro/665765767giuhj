@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "id": "konosuba_magic",
+  "version": "${version}",
+  "name": "Konosuba Magic",
+  "description": "Посохи и жезлы с магией из KonoSuba: Взрыв, Кража, Молния, Заморозка, Магия Богини, Ветер и Drain Touch.",
+  "authors": ["You"],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["dev.konosuba.magic.KonosubaMagic"]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": "~1.21.1",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}

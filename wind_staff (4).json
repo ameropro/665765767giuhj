@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "F": {
+      "item": "minecraft:feather"
+    },
+    "P": {
+      "item": "minecraft:phantom_membrane"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    " FP",
+    " S ",
+    "S  "
+  ],
+  "result": {
+    "id": "konosuba_magic:wind_staff",
+    "count": 1
+  }
+}

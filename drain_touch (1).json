@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "S": {
+      "item": "minecraft:soul_sand"
+    },
+    "E": {
+      "item": "minecraft:fermented_spider_eye"
+    },
+    "R": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    " SE",
+    " R ",
+    "R  "
+  ],
+  "result": {
+    "id": "konosuba_magic:drain_touch",
+    "count": 1
+  }
+}

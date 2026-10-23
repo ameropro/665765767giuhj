@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "P": {
+      "item": "minecraft:prismarine_crystals"
+    },
+    "G": {
+      "item": "minecraft:gold_ingot"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    " PG",
+    " S ",
+    "S  "
+  ],
+  "result": {
+    "id": "konosuba_magic:aqua_staff",
+    "count": 1
+  }
+}

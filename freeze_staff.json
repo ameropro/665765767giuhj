@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "konosuba_magic:item/freeze_staff"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "itemGroup.konosuba_magic.magic": "Konosuba: Magic",
+
+  "item.konosuba_magic.explosion_staff": "Explosion Staff",
+  "item.konosuba_magic.explosion_staff.tooltip": "Hold Right Click to chant, release to cast EXPLOSION! The caster collapses afterwards.",
+  "item.konosuba_magic.steal_wand": "Steal Wand",
+  "item.konosuba_magic.steal_wand.tooltip": "Right Click a mob: 50% chance to steal one of its items.",
+  "item.konosuba_magic.lightning_staff": "Lightning Staff",
+  "item.konosuba_magic.lightning_staff.tooltip": "Right Click: lightning strike plus chain lightning on nearby enemies.",
+  "item.konosuba_magic.freeze_staff": "Freeze Staff",
+  "item.konosuba_magic.freeze_staff.tooltip": "Right Click: freezes enemies, turns water to ice and lava to obsidian.",
+  "item.konosuba_magic.aqua_staff": "Goddess Staff",
+  "item.konosuba_magic.aqua_staff.tooltip": "Right Click: turn undead and heal allies. Shift+Right Click: create water.",
+  "item.konosuba_magic.wind_staff": "Wind Staff",
+  "item.konosuba_magic.wind_staff.tooltip": "Right Click: cone of wind. Shift+Right Click: launch yourself upward.",
+  "item.konosuba_magic.drain_touch": "Drain Touch",
+  "item.konosuba_magic.drain_touch.tooltip": "Right Click a creature: drain its health to heal yourself.",
+
+  "message.konosuba_magic.explosion.interrupted": "Chant interrupted...",
+  "message.konosuba_magic.explosion.cast": "EXPLOSION!",
+  "message.konosuba_magic.steal.fail": "Steal failed!",
+  "message.konosuba_magic.steal.success": "Stolen: %s",
+  "message.konosuba_magic.steal.no_players": "You can't steal from players."
+}

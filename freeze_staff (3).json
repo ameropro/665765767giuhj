@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "B": {
+      "item": "minecraft:blue_ice"
+    },
+    "D": {
+      "item": "minecraft:diamond"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    " BD",
+    " S ",
+    "S  "
+  ],
+  "result": {
+    "id": "konosuba_magic:freeze_staff",
+    "count": 1
+  }
+}

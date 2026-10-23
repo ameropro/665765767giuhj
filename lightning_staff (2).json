@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "L": {
+      "item": "minecraft:lightning_rod"
+    },
+    "D": {
+      "item": "minecraft:diamond"
+    },
+    "S": {
+      "item": "minecraft:blaze_rod"
+    }
+  },
+  "pattern": [
+    " LD",
+    " S ",
+    "S  "
+  ],
+  "result": {
+    "id": "konosuba_magic:lightning_staff",
+    "count": 1
+  }
+}

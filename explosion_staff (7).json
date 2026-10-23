@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "D": {
+      "item": "minecraft:diamond"
+    },
+    "T": {
+      "item": "minecraft:tnt"
+    },
+    "S": {
+      "item": "minecraft:blaze_rod"
+    }
+  },
+  "pattern": [
+    "DTD",
+    " S ",
+    " S "
+  ],
+  "result": {
+    "id": "konosuba_magic:explosion_staff",
+    "count": 1
+  }
+}
